@@ -3,7 +3,7 @@
 A new Flutter project.
 ![Screen_1](https://github.com/dejwid03/Quiz_app/blob/main/screenshots/Screenshot_1715026472.png)
 ![Screen_2](https://github.com/dejwid03/Quiz_app/blob/main/screenshots/Screenshot_1715026475.png)
-![Screen_3](https://github.com/dejwid03/Quiz_app/blob/main/screenshots/Screenshot_1715026476.png)
+![Screen_3](https://github.com/dejwid03/Quiz_app/blob/main/screenshots/Screenshot_1715026506.png)
 
 ## Getting Started
 
