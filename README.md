@@ -1,6 +1,7 @@
 # adv_basics
 
 A new Flutter project.
+![Screen_1](https://github.com/dejwid03/Quiz_app/blob/main/screenshots/Screenshot_1715026472.png)
 
 ## Getting Started
 
